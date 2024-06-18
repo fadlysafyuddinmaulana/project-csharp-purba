@@ -1,0 +1,10 @@
+D:\D'Collage\SEMESTER 2\Pemrograman Lanjut\UAS\C2_2103040133\C2_2103040133\bin\C2_2103040133.dll
+D:\D'Collage\SEMESTER 2\Pemrograman Lanjut\UAS\C2_2103040133\C2_2103040133\bin\C2_2103040133.pdb
+D:\D'Collage\SEMESTER 2\Pemrograman Lanjut\UAS\C2_2103040133\C2_2103040133\obj\Debug\C2_2103040133.dll
+D:\D'Collage\SEMESTER 2\Pemrograman Lanjut\UAS\C2_2103040133\C2_2103040133\obj\Debug\C2_2103040133.pdb
+D:\D'Collage\SEMESTER 2\Pemrograman Lanjut\UAS\C2_2103040133\C2_2103040133\obj\Debug\C2_2103040133.csprojResolveAssemblyReference.cache
+D:\D'Collage\SEMESTER 2\Pemrograman Lanjut\C2_2103040133\C2_2103040133\bin\C2_2103040133.dll
+D:\D'Collage\SEMESTER 2\Pemrograman Lanjut\C2_2103040133\C2_2103040133\bin\C2_2103040133.pdb
+D:\D'Collage\SEMESTER 2\Pemrograman Lanjut\C2_2103040133\C2_2103040133\obj\Debug\C2_2103040133.csprojResolveAssemblyReference.cache
+D:\D'Collage\SEMESTER 2\Pemrograman Lanjut\C2_2103040133\C2_2103040133\obj\Debug\C2_2103040133.dll
+D:\D'Collage\SEMESTER 2\Pemrograman Lanjut\C2_2103040133\C2_2103040133\obj\Debug\C2_2103040133.pdb
